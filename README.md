@@ -16,7 +16,7 @@ The project is based on the "Online Retail II" dataset from the UCI Machine Lear
 - Develop predictive models for CLV and compare their performance.
 - Extract actionable insights to guide marketing and business strategies.
 
-## Models
+## Models(Go to the last section in the notebook) https://github.com/Yonas650/ML-Driven-CLV-Prediction/blob/main/CLV_prediction.ipynb?short_path=fc51fa9#L1513
 
 The project explores several machine learning models, including:
 
