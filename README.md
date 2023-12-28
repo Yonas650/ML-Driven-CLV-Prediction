@@ -18,7 +18,7 @@ The project is based on the "Online Retail II" dataset from the UCI Machine Lear
 
 ## Models(Go to the last section in the notebook)
 
-The project explores several machine learning models, including:
+The project explores several machine learning models:
 
 - Linear Regression (Baseline Model)
 - Decision Tree Regressor
